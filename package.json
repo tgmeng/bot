@@ -1,0 +1,16 @@
+{
+  "name": "yuque-bot",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "repository": "https://github.com/tgmeng/yuque-bot.git",
+  "author": "tgmeng <tgmeng@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@zeit/ncc": "^0.21.1"
+  },
+  "dependencies": {
+    "@yuque/sdk": "^1.1.1",
+    "date-fns": "^2.10.0",
+    "lodash": "^4.17.15"
+  }
+}
